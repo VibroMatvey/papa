@@ -1,0 +1,199 @@
+@media only screen and (max-width: 1200px) {
+
+
+
+
+
+
+}
+
+@media only screen and (max-width: 992px) {
+    
+
+
+.header
+	{
+		height: 150px;
+	}
+
+.logo
+{
+	margin-top: 30px;
+}
+
+.menu
+{
+	margin-top: 30px;
+	font-size: 18px;
+}
+
+.container1
+{
+	margin-top: 200px;
+
+	height: 150px;
+	margin-left: 400px;
+}
+
+.search
+{
+
+
+}
+
+.slider-container
+{
+
+	margin-left: 400px;
+}
+
+.container2
+{
+	
+	margin-left: 400px;
+	height: 400px;
+	
+	
+}
+
+.img_ct2
+{
+	max-width: 100%;
+}
+
+.container3
+{
+	
+	margin-left: 400px;
+	
+	
+	
+}
+
+.container4
+{
+	
+	margin-left: 400px;
+	height: 400px;
+	
+	
+	
+}
+
+
+
+.footer
+{
+	width: 1800px;
+}
+
+.textt
+{
+    margin-left: 400px;
+	max-width: 60%;
+}
+
+.b
+{
+	margin-bottom: 10px;
+}
+
+.a
+{
+	margin-bottom: 10px;
+}
+
+.social
+{
+	
+}
+
+.about-content
+{
+    height: 2500px;
+}
+
+.about-container0
+{
+	height: 500px;
+	width: 1000px;
+	margin-top: 200px;
+	margin-left: 400px;
+}
+
+
+.about-container1
+{
+	height: 700px;
+	width: 1000px;
+	margin-top: 100px;
+	margin-left: 400px;
+	justify-content: space-evenly;
+}
+
+.about-container2
+{
+	height: 700px;
+	width: 1000px;
+	margin-top: 100px;
+	margin-left: 400px;
+	justify-content: space-evenly;
+	
+}
+
+.container_goods1
+{
+	height: 2200px;
+	margin-left: 400px;
+	width: 700px;
+	justify-content: space-between;
+	font-size: 25px;
+}
+
+.main_goods
+{
+	margin-left: 500px;
+	
+}
+
+.goods_item
+{
+	width: 700px;
+}
+
+.gds
+{
+	height: 2300px;
+}
+
+.msg
+{
+	margin-left: 100px;
+}
+
+.main_profile
+{
+	width: 800px;
+}
+
+.content
+{
+	width: 800px;
+}
+
+
+}
+
+@media only screen and (max-width: 480px) {
+
+	.container1
+{
+    max-width: 50%;
+}
+
+
+}
+
+@media only screen and (max-width: 320px) {
+	
+}
